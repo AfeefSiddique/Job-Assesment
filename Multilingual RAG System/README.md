@@ -48,7 +48,7 @@ This is a simple **Multilingual Retrieval-Augmented Generation (RAG)** system th
 
 4. **Run the server**
    ```bash
-   uvicorn main:app --reload
+   uvicorn main2:app --reload
    ```
 
 5. Open the browser at [http://localhost:8000/docs](http://localhost:8000/docs) to interact with the API.
